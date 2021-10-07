@@ -1,7 +1,9 @@
 # Welcome to user-info 👋
 ![Version](https://img.shields.io/badge/Powered%20by-React-blue)
 > Read users from database and show user details on selected. This app uses API from [jsonplaceholder](https://jsonplaceholder.typicode.com/users/id/)
+# Demo
 
+>Visit [user-info app](https://quirky-wiles-479766.netlify.app/), deployed by Netlify
 ## Install
 
 ```sh
