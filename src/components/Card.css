@@ -1,0 +1,23 @@
+.circle {
+    width: 12vw;
+    height: 12vw;
+    line-height: 12vw;
+    border-radius: 50%;
+    font-size: 8vw;
+    color: #0E6EFC;
+    text-align: center;
+    background: #000;
+    margin:auto;
+}
+
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card a{
+    color: #0E6EFC;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
