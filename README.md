@@ -1,7 +1,6 @@
 # Welcome to user-info 👋
-[![Version](https://img.shields.io/npm/v/user-info.svg)](https://www.npmjs.com/package/user-info)(https://img.shields.io/badge/Powered%20by-React-blue)
-
-> Read users from database and show user details on selected
+![Version](https://img.shields.io/badge/Powered%20by-React-blue)
+> Read users from database and show user details on selected. This app uses API from [jsonplaceholder](https://jsonplaceholder.typicode.com/users/id/)
 
 ## Install
 
